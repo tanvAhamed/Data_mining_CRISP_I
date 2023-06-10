@@ -47,28 +47,28 @@ By conducting comprehensive feature correlation analysis and assessing feature i
 ## Comparative Analysis of Eight Models for Optimal Performance
 This project employs a comparative analysis approach to evaluate the performance of eight different models. By assessing various algorithms, we aim to identify the most efficient model for the given task. The models under consideration are Logistic Regression, Naive Bayes, KNN (K-Nearest Neighbors), Decision Tree, Neural Network, Random Forest, XGBoost, and AdaBoost. Each model brings unique characteristics and capabilities to the table, making this analysis crucial for selecting the most suitable approach.
 
-### Logistic Regression: 
+### 1. Logistic Regression: 
 This model is widely used for binary classification tasks, leveraging a linear regression framework to estimate the probability of an event occurring.
 
-### Naive Bayes: 
+### 2. Naive Bayes: 
 Based on Bayes' theorem, Naive Bayes is a probabilistic classifier known for its simplicity and speed. It assumes independence among features, making it particularly effective when dealing with text classification or spam filtering.
 
-### KNN (K-Nearest Neighbors): 
+### 3. KNN (K-Nearest Neighbors): 
 KNN is a non-parametric algorithm that classifies samples based on their proximity to other data points. It assigns labels by considering the majority class among the k nearest neighbors.
 
-### Decision Tree: 
+### 4. Decision Tree: 
 Decision trees create a flowchart-like structure to make decisions based on feature values. This model is intuitive, easy to interpret, and suitable for both classification and regression tasks.
 
-### Neural Network: 
+### 5. Neural Network: 
 Inspired by the human brain, neural networks utilize interconnected layers of artificial neurons to process and learn from data. They excel in capturing complex relationships and are highly effective in various domains.
 
-### Random Forest: 
+### 6. Random Forest: 
 Random Forest combines multiple decision trees to form an ensemble model. It leverages the wisdom of crowds, improving predictive accuracy and handling high-dimensional datasets.
 
-### XGBoost: 
+### 7. XGBoost: 
 Extreme Gradient Boosting (XGBoost) is a powerful gradient boosting framework known for its speed and performance. It employs a combination of decision trees and gradient boosting techniques to achieve high accuracy.
 
-### AdaBoost: 
+### 8. AdaBoost: 
 AdaBoost (Adaptive Boosting) is an ensemble method that iteratively adjusts the weights of misclassified samples, focusing on challenging instances to improve model performance.
 
 By exploring these diverse models, this project aims to identify the most efficient and accurate approach for the specific task at hand, ultimately enabling better decision-making and improved outcomes.
